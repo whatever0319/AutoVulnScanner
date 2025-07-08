@@ -10,9 +10,3 @@ AutoVulnScanner 是一套用 Python 製作的自動化資安掃描工具集，�
 
 ---
 
-## 安裝說明
-
-git clone https://github.com/whatever0319/AutoVulnScanner.git
-cd AutoVulnScanner
-pip install -r requirements.txt
-python main.py
